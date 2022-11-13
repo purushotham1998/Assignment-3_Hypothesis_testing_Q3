@@ -1,6 +1,4 @@
 # Assignment-3_Hypothesis_testing_Q3
-@@ -1,4 +1,7 @@
-# Assignment-03-Q3-Hypothesis-Testing-
 
 Chi2 contengency independence test
 
